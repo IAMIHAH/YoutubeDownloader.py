@@ -3,3 +3,14 @@ Discord.py와 Youtube-dl을 이용한 YoutubeDownloader입니다.
 
 ## License
 > discord.py가 MIT 라이선스이므로 이 프로젝트도 동일하게 MIT 라이선스입니다.
+
+## Modules
+**discord**
+**discord.ext**
+asyncio
+**youtube_dl**
+os
+sys
+discord.utils
+
+총합 7개
